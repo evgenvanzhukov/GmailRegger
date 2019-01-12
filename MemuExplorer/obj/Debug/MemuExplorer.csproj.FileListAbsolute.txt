@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\MemuExplorer.dll
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\MemuExplorer.pdb
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\appium-dotnet-driver.dll
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\Castle.Core.dll
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\WebDriver.dll
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\WebDriver.Support.dll
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\appium-dotnet-driver.xml
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\Castle.Core.xml
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\WebDriver.xml
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\bin\Debug\WebDriver.Support.xml
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\obj\Debug\MemuExplorer.csprojAssemblyReference.cache
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\obj\Debug\MemuExplorer.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\obj\Debug\MemuExplorer.csproj.CopyComplete
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\obj\Debug\MemuExplorer.dll
+C:\Users\1\source\repos\MemuExplorer\MemuExplorer\obj\Debug\MemuExplorer.pdb
